@@ -12,8 +12,8 @@ Welcome to Angular Drop-Form Builder, a drag-and-drop form builder designed to m
 
 ## Technologies Used
 
-- Angular: A popular framework for building web applications with TypeScript.
-- JavaScript: The programming language used to add interactivity and functionality to the application.
+- Angular
+- JavaScript
 
 ## Getting Started
 
