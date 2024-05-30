@@ -14,7 +14,6 @@ Welcome to Angular Drop-Form Builder, a drag-and-drop form builder designed to m
 
 - Angular: A popular framework for building web applications with TypeScript.
 - JavaScript: The programming language used to add interactivity and functionality to the application.
-- [Add any additional libraries or tools used in your project]
 
 ## Getting Started
 
